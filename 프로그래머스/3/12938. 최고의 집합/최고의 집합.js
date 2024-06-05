@@ -19,8 +19,6 @@ function solution(n, s) {
                 break
             }
         }
-        
     }
-    
     return answer.sort((a,b) => a - b )
 }
